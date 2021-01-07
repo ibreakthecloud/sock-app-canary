@@ -1,0 +1,1 @@
+{"jobID":"6bbd3491-16eb-4aed-aa6c-ebde19e1eb94","spec":{"type":"policy","cause":{"Message":"","User":"ibreakthecloud \u003charshvkarn54@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":{},"remove":{"automated":"true"}}}},"result":null}
