@@ -214,7 +214,7 @@ spec:
             - name: DF_TLS_ON
               value: "1"
             - name: DF_BACKEND_IP
-              value: "68.183.39.219"
+              value: "165.22.211.64"
             - name: DF_BACKEND_PORT
               value: "8010"
             - name: DF_KUBERNETES_ON
